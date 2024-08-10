@@ -5,7 +5,7 @@ foreach ($array as $row){
           echo '|'.implode($sep, $row).'|'.PHP_EOL;
     
 }
-//ne bebra
+//amogus
 $user=readline("Ход Х, введите кординаты в формате: 1.1 - " );
 
 //echo $user;
