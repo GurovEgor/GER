@@ -3,7 +3,7 @@ $array = [[' . ',' . ',' . '],[' . ',' . ',' . '],[' . ',' . ',' . ']];
 foreach ($array as $row){
            $sep='|';
           echo '|'.implode($sep, $row).'|'.PHP_EOL;
-    
+    echo "Skibidi Shiiiit";
 }
 //amogus
 $user=readline("Ход Х, введите кординаты в формате: 1.1 - " );
