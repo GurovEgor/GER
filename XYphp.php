@@ -7,7 +7,7 @@ foreach ($array as $row){
 }
 //amogus
 $user=readline("Ход Х, введите кординаты в формате: 1.1 - " );
-
+фыпва
 //echo $user;
 $cordination=explode('.' , $user);
 $y=--$cordination[0];
